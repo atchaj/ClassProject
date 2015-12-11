@@ -13,6 +13,7 @@
 		<Item Name="DC Voltage Source (Express).vi" Type="VI" URL="../DC Voltage Source (Express).vi"/>
 		<Item Name="Fan Acceleration Curve J&amp;J.vi" Type="VI" URL="../Fan Acceleration Curve J&amp;J.vi"/>
 		<Item Name="HW3part1.vi" Type="VI" URL="../HW3part1.vi"/>
+		<Item Name="scrap.vi" Type="VI" URL="../scrap.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
